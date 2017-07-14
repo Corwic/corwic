@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Museums of Krakow — Free admission days
+title: Museum free days around Krakow
 published: true
 ---
 
