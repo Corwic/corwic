@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Krakow guide for beginners
+title: Krakow short guide for beginners
 published: true
 ---
 
@@ -63,30 +63,6 @@ Bezpieczeństwo zakupu biletów na koncerty organizowane przez Live Nation gwara
 3. www.Ticketpro.pl
 4. www.Eventim.pl
 — _Антон В_
-
-## Что послушать, посмотреть, почитать на польском 
-
-Телепрограмма о всяком
-* [drugie Sniadanie Mistrzow](http://www.tvn24.pl/drugie-sniadanie-mistrzow,40,m)
-
-
-Книжки: 
-* [Morfina — Szczepan Twardoch](http://www.wydawnictwoliterackie.pl/ksiazka/2422/Morfina---Szczepan-Twardoch) (ее можно одолжить в библиотеке) — _Ника_
-* Ведьмак
-* Лем
-
-
-Печатная пресса: 
-* [Wyborcza](http://wyborcza.pl/0,0.html?disableRedirects=true)
-* [Tygodnik Powszechny](https://www.tygodnikpowszechny.pl/)
-— Ника
-
-
-Радио: 
-* Radio Polska—Trójka—[Czas-niezwykly](http://www.polskieradio.pl/9,Trojka/5527,Czas-niezwykly) — гости рассказывают историю своей жизни. — _Антон Ч_
-* Самое католическое называется [радио Мария](http://www.radiomaryja.pl/) _Ника_
-
-
 
 
 ## Безвиз
