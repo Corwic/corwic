@@ -146,3 +146,13 @@ Europeum
 dzień wolnego wstępu na ekspozycje stałe 
 Pl. Sikorskiego 6, 10.00-16.00 
 www.mnk.pl
+
+
+
+
+
+———————————
+# Gdansk
+
+WWII Museum
+- Tuesday is the free museum day (main exhibition and children’s exhibition)
