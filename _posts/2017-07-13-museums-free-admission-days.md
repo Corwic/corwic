@@ -38,7 +38,7 @@ Wystawy w oddziale w Nowej Hucie-Branicach przy ul. Sasanek 2A:
 www.ma.krakow.pl 
 
 
-##Вторник
+## Вторник
 
 __Podziemia Rynku - Muzeum Historyczne__
 _Rynek Główny 1_, godz. 10.00-16.00 
@@ -50,6 +50,13 @@ _ul. Lipowa 4_
 wejściówki można odbierać do godz. 18.00 
 http://www.mocak.com.pl/ 
 
+
+__Manggha Museum of Japanese Art and Technology__
+__Europe - Far East Gallery__
+_ul. M. Konopnickiej 26_
+Open daily except Mondays, between 10:00 am and 6:00 pm.
+http://manggha.pl/en/exhibitions
+
 Ulica Pomorska - Muzeum Historyczne 
 Krakowianie wobec terroru 1939–1945–1956 - wystawa stała 
 ul. Pomorska 2, godz. 09.00 - 16.00 
@@ -59,8 +66,7 @@ __Muzeum Uniwersytetu Jagiellońskiego__
 1 IV - 31 X we wtorki w godzinach 15:00 - 18:00 (ostatnie wejście o 17:20) 
 http://www.maius.uj.edu.pl/ 
 
-Muzeum Inżynierii Miejskiej: 
-We wtorki wstęp na wystawy stałe jest bezpłatny. 
+Muzeum Inżynierii Miejskiej 
 Ul.św. Wawrzyńca 15, Kraków, 10:00 - 18:00 
 http://www.mimk.com.pl/ 
 
