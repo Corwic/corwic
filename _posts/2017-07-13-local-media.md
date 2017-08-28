@@ -1,15 +1,16 @@
 ---
 layout: post
-title: 'Local Media : Learn Polish'
+title: Polish Language Learning through Local Media
 published: true
 ---
 
-_Информационные медия и книги — что послушать, посмотреть, почитать на польском._
+_Информационные медия и книги на польском — что послушать, посмотреть, почитать_
 
 * [Учебники с аудио](https://drive.google.com/open?id=0B4_zVqSREuHcN2JfMVRwMmNMNzA)
 * Matrix of the Polish Language
 * Piotr's Podcast [RealPolish.pl](https://realpolish.pl/)
 
+[Torrents and VPNs in Poland](https://polishforums.com/law/poland-safe-legal-use-torrents-downloads-67725/)
 
 ## В интернете:
 Local news: 
